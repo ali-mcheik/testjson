@@ -2,13 +2,11 @@
   "users": [
     {
       "username": "admin",
-      "password": "Admin@123",
-      "role": "administrator"
+      "password": "Admin@123"
     },
     {
       "username": "remy",
-      "password": "User@123",
-      "role": "user"
+      "password": "User@123"
     }
   ]
 }
