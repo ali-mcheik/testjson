@@ -1,6 +1,6 @@
 [
   {
-    "SalesInvoiceNumber": "INV-1001",
+    "SalesInvoiceNumber": "1",
     "Amount": 250.75,
     "Currency": "$",
     "UserId": "U001",
@@ -8,7 +8,7 @@
     "Time": "21:45:10"
   },
   {
-    "SalesInvoiceNumber": "INV-1002",
+    "SalesInvoiceNumber": "2",
     "Amount": 120.00,
     "Currency": "$",
     "UserId": "U002",
