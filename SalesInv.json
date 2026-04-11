@@ -1,18 +1,1 @@
-[
-  {
-    "SalesInvoiceNumber": "1",
-    "Amount": 250.75,
-    "Currency": "$",
-    "UserId": "U001",
-    "Date": "2026-04-10",
-    "Time": "21:45:10"
-  },
-  {
-    "SalesInvoiceNumber": "2",
-    "Amount": 120.00,
-    "Currency": "$",
-    "UserId": "U002",
-    "Date": "2026-04-10",
-    "Time": "21:50:32"
-  }
-]
+[{"SalesInvoiceNumber":"1","Amount":250.75,"Currency":"$","UserId":"U001","DateTime":"0001-01-01T00:00:00"},{"SalesInvoiceNumber":"2","Amount":120,"Currency":"$","UserId":"U002","DateTime":"0001-01-01T00:00:00"},{"SalesInvoiceNumber":"3","Amount":100,"Currency":"USD","UserId":"user1","DateTime":"2026-04-11T09:11:06.5940356+03:00"}]
