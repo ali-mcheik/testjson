@@ -1,7 +1,7 @@
 [
-  {
-    "ItemID": "1",
-    "Price": 250.75,
-    "Currency": "LBP"
-  }
+{
+  "ItemID": 1,
+  "Price": 12.50,
+  "Currency": "USD"
+}
 ]
